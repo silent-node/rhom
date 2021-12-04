@@ -1,0 +1,25 @@
+{
+   "token": "OTE1NjA3MTY3NzExNzExMzYz.YaeDnw.qGheU35lb8mOHShQDFMIGoz1bJ8",
+   "prefix": "rm.",
+   "ownerIDS": [
+      "729430027828985886"
+   ],
+   "status": {
+      "text": "{prefix}help | https://discord.gg/hFSV7bb7Yp | discord.link/RHComn",
+      "type": "PLAYING"
+   },
+   "clientsettings": {
+      "nodes": [
+         {
+            "host": "lavalink.eu",
+            "port": 2333,
+            "password": "Raccoon"
+         }
+      ]
+   },
+
+   "spotify": {
+      "clientID": "babbbb213aeb424caed89e4e95cede41",
+      "clientSecret": "637558af99704e0d920bf0d225dd7f50"
+   }
+}
