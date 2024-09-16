@@ -11,7 +11,7 @@
  * 8  LOAD_the_BOT_Functions
  * 9  Login_to_the_Bot
  * 
- *   BOT CODED BY: TOMato6966 | https://milrato.dev
+ *   BOT CODED BY: !          ᴮˡᵃᶜᵏ MABA KALARI#6257 | 
  *********************************************************/
 
 
@@ -98,9 +98,9 @@ require("./keep-alive-server")();
 
 /**********************************************************
  * @INFO
- * Bot Coded by Tomato#6966 | https://discord.gg/milrato
+ * Bot Coded by !          ᴮˡᵃᶜᵏ MABA KALARI#6257 | 
  * @INFO
- * Work for Milrato Development | https://milrato.dev
+ * Work for Milrato Development | !          ᴮˡᵃᶜᵏ MABA KALARI#6257
  * @INFO
  * Please mention him / Milrato Development, when using this Code!
  * @INFO
